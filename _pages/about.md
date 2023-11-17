@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_new.jpg
+  image: prof_pic_new.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>213, Capen Hall</p>
