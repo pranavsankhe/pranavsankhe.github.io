@@ -33,6 +33,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: R&D Scientist 
+      institution: Oak Ridge National Laboratory
+      year: 2023 
+      description: 
+        -title: National Security Sciences Directorate 
+          contents: 
+            - Spatial Statistics Group
+            
     - title: PhD Research Intern
       institution: IBM Research, New York, USA.
       year: 2020
