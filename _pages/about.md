@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>📍Knoxville, TN</p>
-    <p> USA </p>
+    <p>     USA </p>
 
 
 news: false  # includes a list of news items
