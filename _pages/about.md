@@ -9,7 +9,7 @@ profile:
   image: prof_pic_new.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://maps.app.goo.gl/GprEkPiYSiJD8tpn9">📍Knoxville, TN</a>
+    <center>📍Knoxville, TN</center>
 
 
 news: false  # includes a list of news items
