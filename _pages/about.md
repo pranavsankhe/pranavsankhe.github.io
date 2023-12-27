@@ -9,7 +9,8 @@ profile:
   image: prof_pic_new.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-  <p>📍Knoxville, TN</p>
+    <center>📍Knoxville, TN</center>
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +21,7 @@ I am a R&D Scientist at [Oak Ridge National Laboratory](https://www.ornl.gov), w
 
 I received my PhD from the [CSE](https://engineering.buffalo.edu/computer-science-engineering/people/phd-candidates.html) department of [University at Buffalo](https://www.buffalo.edu), where I was jointly supervised by [Dr. Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/) and [Dr. Kenneth Joseph](https://kennyjoseph.github.io). During my graduate studies, I joined [IBM Research](https://research.ibm.com/publications/tablecnn-deep-learning-framework-for-learning-tabular-data) as a research intern and [ByteDance Research](https://www.bytedance.com/en/) as graduate researcher. I completed undergraduate studies at [University of Mumbai](https://mu.ac.in), where I received a B.E. in Computer Engineering.
 
-My primary research interest is in `machine learning`. My research at ORNL involves `geo-spatial modeling` using `Bayesian inference`. I aim to develop explainable model with robust inference to facilitate high-stake use cases. As a PhD candidate my research revolved around `causal machine learning` and its applications in social sciences and medicine. I have also worked on `3D computer vision problems` and `language models` leveraging advances in `machine learning` and `deep learning`. 
+My primary research interest is `machine learning`. My research at ORNL involves `geo-spatial modeling` using `Bayesian inference`. I aim to develop explainable model with robust inference to facilitate high-stake use cases. As a PhD candidate my research revolved around `causal machine learning` and its applications in social sciences and medicine. I have also worked on `3D computer vision problems` and `language models` leveraging advances in `machine learning` and `deep learning`. 
 
 For any inquiries, feel free to reach out to me via [email](mailto:pranavgi@buffalo.edu)!
 
