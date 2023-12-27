@@ -9,8 +9,7 @@ profile:
   image: prof_pic_new.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <center>📍Knoxville, TN</center>
-
+  📍Knoxville, TN
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
